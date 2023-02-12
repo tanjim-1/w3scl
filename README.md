@@ -1,4 +1,4 @@
 # w3scl
 web learning
 live preview
-https://github.com/tanjim-1/w3scl
+https://tanjim-1.github.io/w3scl/
